@@ -1,10 +1,5 @@
 {
   "commands": [
-<<<<<<< HEAD
- "clear A8"
-]
-=======
-	"clear A8"
-	]
->>>>>>> ac5b7b413017d9edcc067b10f95221e99dd1a64c
+    "clear A8"
+  ]
 }
